@@ -1,1 +1,8 @@
 Button counter - Button increments by 1 each time it is clicked
+
+The files I have worked on are:
+
+- App.js
+- Components/Header
+- Components/Button
+- index.css
